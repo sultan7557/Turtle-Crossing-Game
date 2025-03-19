@@ -1,5 +1,8 @@
 # Turtle Crossing Game
 
+![Turtle Crossing Game Screenshot](images/screenshot-game1.png)
+
+
 A fun implementation of a classic road crossing game built with Python's Turtle graphics library.
 
 ## How to Play
